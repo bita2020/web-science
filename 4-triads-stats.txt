@@ -1,6 +1,6 @@
 Ties = number of edges in part 3, take numbers from there
 
-Triads Replies: 158
-Triads Retweets: 664
-Triads Mentions: 2519
-Triads Hashtag co-occurence: 0
+Triads Replies: 175
+Triads Retweets: 687
+Triads Mentions: 3064
+Triads Hashtag co-occurence: 9213492
