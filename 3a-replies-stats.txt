@@ -1,0 +1,17 @@
+1280 Nodes and 927 Edges
+Maximum degree: 216
+Minimum degree: 1
+Average degree: 1.45
+Most frequent degree: 1
+graph is not connected
+Number of connected components: 430
+Average clustering coefficient: 0.00602
+Transitivity: 0.002
+the node with id SkyBet has a degree centrality of 0.16888 which is the maximum of the Graph
+the node with id SkyBet has a closeness centrality of 0.16888 which is the maximum of the Graph
+the node with id SkyBet has a betweenness centrality of 0.02841 which is the maximum of the Graph
+Top-5 degree centrality: [('SkyBet', 0.16888193901485535), ('mrdanwalker', 0.04691164972634871), ('louiseminchin', 0.0218921032056294), ('RobBiddulph', 0.012509773260359656), ('BizBuzzHertford', 0.008600469116497263)]
+Top-5 degree closeness: [('SkyBet', 0.16888193901485535), ('MxttyP', 0.08463688823018273), ('adamdoran01', 0.08463688823018273), ('mcq1985', 0.08463688823018273), ('Taggsy79', 0.08463688823018273)]
+Top-5 degree betweeness: [('SkyBet', 0.02841128082018302), ('mrdanwalker', 0.002454480160434416), ('louiseminchin', 0.0004625092226541422), ('KincaidDeclan', 0.00029365664930421727), ('lorraine', 0.00022758390321076836)]
+Time to get centrality stats: 1
+Time to draw graph: 10

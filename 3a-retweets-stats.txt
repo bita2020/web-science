@@ -1,0 +1,18 @@
+---
+7804 Nodes and 6913 Edges
+Maximum degree: 437
+Minimum degree: 1
+Average degree: 1.77166
+Most frequent degree: 1
+graph is not connected
+Number of connected components: 1174
+Average clustering coefficient: 0.00387
+Transitivity: 0.00119
+the node with id sidetolaufer has a degree centrality of 0.05600 which is the maximum of the Graph
+the node with id devinedianakin has a closeness centrality of 0.06903 which is the maximum of the Graph
+the node with id gsc1 has a betweenness centrality of 0.08029 which is the maximum of the Graph
+Top-5 degree centrality: [('sidetolaufer', 0.05600410098679995), ('protectyrbubble', 0.02704088171216199), ('Smayphotography', 0.016019479687299755), ('gsc1', 0.015891323849801357), ('earlofbeverley', 0.010893246187363833)]
+Top-5 degree closeness: [('devinedianakin', 0.06902972540925555), ('alive1313', 0.0673467139609526), ('ClaatBomba', 0.06620101909621644), ('spaceangel1964', 0.06553697511742254), ('gsc1', 0.06443511251309746)]
+Top-5 degree betweeness: [('gsc1', 0.08028611420200896), ('sidetolaufer', 0.0716065403564572), ('sabine_eh', 0.06525369353106718), ('UKLabour', 0.045426922879908155), ('ameliagentleman', 0.04336074541321827)]
+Time to get centrality stats: 380
+Time to draw graph: 165

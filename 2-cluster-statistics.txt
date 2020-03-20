@@ -1,0 +1,56 @@
+---
+Cluster 0
+Number of tweets: 438
+Number of independent accounts: 438
+Hashtags: []
+Users: ['GrazieleNoronha', 'JoyfulNeshama', 'candrazdestroy', 'TomBuxtonUncut', 'JamessIngramm', 'mateusnavarro', 'Hailey_Jeanine1', 'FryCynthia', 'omaarrf1', 'PastorBlueJeans']
+Mentions: ['sidetolaufer']
+---
+Cluster 1
+Number of tweets: 2571
+Number of independent accounts: 2323
+Hashtags: ['MyQuarantineInSixWords', 'UKlockdown', 'SocialDistanacing', 'DrawWithRob', 'PoultrySongsAndMovies', 'ToiletRollChallenge', 'WorkingFromHomeLife', 'coronavirus', 'Convid19uk', 'StaySafeStayHome']
+Users: ['elevenseshour_', 'FGFriendlies', 'emmytray', 'NRLonNine', 'wwos', 'Brozafan', 'FreitagWolf', 'MFKinnear', 'AlgiersLady', 'lscain3834']
+Mentions: ['ssaini_27', 'RobBiddulph', 'GameIdentityV', 'BBCiPlayer', 'espn', 'BWYK9', 'shivamv91', 'BrandonDavisBD', 'gsc1', 'DogsTrust']
+---
+Cluster 2
+Number of tweets: 216
+Number of independent accounts: 216
+Hashtags: ['DailyDrop', 'dailydrop', 'dailyDrop', 'Dailydrop']
+Users: ['MxttyP', 'adamdoran01', 'mcq1985', 'Taggsy79', 'SBH1978', 'JoeHanley_90', 'SnoopyGc', 'Rachel_Haith', 'JakeGreenbank', 'Connor_Rouse']
+Mentions: ['SkyBet']
+---
+Cluster 3
+Number of tweets: 99
+Number of independent accounts: 99
+Hashtags: []
+Users: ['marymar96276145', 'MessyMich', 'KatKyns', 'LAP6_5', 'bradkieser', 'WanderingGaia', 'sabine_eh', 'juliansims', 'inknook', 'lexiconic_uk']
+Mentions: ['gsc1']
+---
+Cluster 4
+Number of tweets: 472
+Number of independent accounts: 463
+Hashtags: ['coronavirus', 'Brexit', 'Covid_19', 'EU', 'Coronavirusoutbreak', 'COVID19', 'MichelBarnier', 'JustIn', 'CoronaVirusChallenge', 'brexit']
+Users: ['goldwynbird', 'claracampostor1', 'AndyWells7', 'BojoIsAWasteman', 'MaryMor42826059', 'Malcolm49141176', 'KPumpkin4', 'BrendaSimmonds', 'olivepress', 'UKNeil1979']
+Mentions: ['ladyhaja', 'BrandyLJensen', 'BBCBreakfast', 'DaveMilbo', 'afneil', 'Ferretgrove', 'Shaboh1060', 'EmApocalyptic', 'BBCBreaking', 'CaileanNeal']
+---
+Cluster 5
+Number of tweets: 125
+Number of independent accounts: 125
+Hashtags: []
+Users: ['theCG27', 'anisahk97', 'MissMithrandir', 'hmitchell0', 'CreepzAreCreepz', 'AdamBede3', 'ConorGouldsboro', 'bethanw239', 'Ben_wiles4', 'MrGanjy']
+Mentions: ['Smayphotography']
+---
+Cluster 6
+Number of tweets: 211
+Number of independent accounts: 211
+Hashtags: ['PrizeDraw']
+Users: ['CryptoSair', 'Blue66uk', 'Cryptopian63', 'rebeccacorbett3', 'FreneticFirmino', 'Newoneinvillage', 'Daniel63947891', 'lexxi_rh', 'mary_c_1985', 'Claire_tweets_']
+Mentions: ['protectyrbubble']
+---
+Cluster 7
+Number of tweets: 6111
+Number of independent accounts: 5151
+Hashtags: ['keyworkers', 'MyQuarantineInSixWords', 'PoultrySongsAndMovies', 'popmaster', 'Windrush', 'Convid19uk', 'SuperMovers', 'UKlockdown', 'Farage', 'ThursdayThoughts']
+Users: ['StABusinessBuzz', 'solicitorchat', 'Joyisreading', 'BuddhaConnect', 'pushkasmarbles', 'BizBuzzHertford', 'GraceMurphy2', 'FGFriendlies', 'MFKinnear', 'LawSocietyFAS']
+Mentions: ['earlofbeverley', 'SpeccyPaul', 'RobBiddulph', 'CILIPCKG', 'OrthopodReg', 'ameliagentleman', 'mrdanwalker', 'getFANDOM', 'JamesMelville', 'AdoptionsUk']

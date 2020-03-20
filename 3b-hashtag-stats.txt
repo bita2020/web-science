@@ -1,0 +1,23 @@
+---
+3424 Nodes and 163978 Edges
+Maximum degree: 450
+Minimum degree: 1
+Average degree: 95.78154
+Most frequent degree: 210
+graph is not connected
+Number of connected components: 147
+Average clustering coefficient: 0.94784
+Top-shared hashtags: [('MyQuarantineInSixWords', 34453), ('UKlockdown', 22155), ('PrizeDraw', 22127), ('SocialDistanacing', 10010), ('coronav
+irus', 10008), ('DailyDrop', 7999), ('keyworkers', 7875), ('Windrush', 5352), ('Convid19uk', 5151), ('DrawWithRob', 5050)]
+TOTAL; 235
+Time to get stats: 6
+MyQuarantineInSixWords 34453 (4.4%)
+UKlockdown 22155 (2.83%)
+PrizeDraw 22127 (2.83%)
+SocialDistanacing 10010 (1.28%)
+coronavirus 10008 (1.28%)
+DailyDrop 7999 (1.02%)
+keyworkers 7875 (1.01%)
+Windrush 5352 (0.68%)
+Convid19uk 5151 (0.66%)
+DrawWithRob 5050 (0.65%)

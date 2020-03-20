@@ -1,0 +1,18 @@
+---
+9979 Nodes and 10105 Edges
+Maximum degree: 443
+Minimum degree: 1
+Average degree: 2.02525
+Most frequent degree: 1
+graph is not connected
+Number of connected components: 1424
+Average clustering coefficient: 0.03902
+Transitivity: 0.00917
+the node with id sidetolaufer has a degree centrality of 0.04440 which is the maximum of the Graph
+the node with id GraceMurphy2 has a closeness centrality of 0.07744 which is the maximum of the Graph
+the node with id sidetolaufer has a betweenness centrality of 0.05754 which is the maximum of the Graph
+Top-5 degree centrality: [('sidetolaufer', 0.04439767488474644), ('SkyBet', 0.021948286229705353), ('protectyrbubble', 0.02114652234916817), ('RobBiddulph', 0.014331529364602125), ('sainsburys', 0.013730206454199239)]
+Top-5 degree closeness: [('GraceMurphy2', 0.07743723596332898), ('devinedianakin', 0.07523550189562035), ('ANDYC2311', 0.07441630437999003), ('rjmlaird', 0.07432693331788436), ('gsc1', 0.07355642631683398)]
+Top-5 degree betweeness: [('sidetolaufer', 0.05754308110858911), ('ameliagentleman', 0.04967914355074659), ('gsc1', 0.04793361185563662), ('GraceMurphy2', 0.041581920893333596), ('protectyrbubble', 0.038901941894700164)]
+Time to get centrality stats: 556
+Time to draw graph: 242
