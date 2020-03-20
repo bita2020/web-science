@@ -5,10 +5,10 @@ import json
 import tweepy
 import time
 
-access_key = "1234605077396148225-WdFI38JeKRDwvvSXUutBcSDFDrYmGg"
-access_secret = "w918L6UXeDI71AsluQsAw73fGeqKDoBX9dV3T8tuqaKdT"
-consumer_key = "3VRYiLHwpgFDAcu2VNOGtEVd2"
-consumer_secret = "MKWEr4mQjvCuytmnXUr9M8LjwgpFctQEv9NvcsTCju2ULlVkYA"
+access_key = "USE YOUR OWN"
+access_secret = "USE YOUR OWN"
+consumer_key = "USE YOUR OWN"
+consumer_secret = "USE YOUR OWN"
 MONGO_HOST = "localhost"
 DATABASE = "twitter"
 COLLECTION = "simpleCrawler"
