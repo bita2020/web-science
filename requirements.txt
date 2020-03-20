@@ -1,0 +1,8 @@
+tweepy
+pymongo
+numpy
+pandas
+sklearn
+joblib
+networkx
+matplotlib
