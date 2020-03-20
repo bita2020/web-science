@@ -27,7 +27,7 @@ for i in range(0, df.shape[0]):
             G_replies.add_edge(tweeter_node, reply_to_node, weight=1)
 
 triad_dict = nx.triadic_census(G_replies)
-num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"]
+num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"] + triad_dict["030C"] + triad_dict["201"] + triad_dict["120D"] + triad_dict["120U"] + triad_dict["120C"] + triad_dict["210"] + triad_dict["300"]
 print("Triads Replies:", num_triads)
 
 G_retweets = nx.DiGraph()
@@ -44,7 +44,7 @@ for i in range(0, df.shape[0]):
             G_retweets.add_edge(tweeter_node, retweeted_node, weight=1)
 
 triad_dict = nx.triadic_census(G_retweets)
-num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"]
+num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"] + triad_dict["030C"] + triad_dict["201"] + triad_dict["120D"] + triad_dict["120U"] + triad_dict["120C"] + triad_dict["210"] + triad_dict["300"]
 print("Triads Retweets:", num_triads)
 
 G_mentions = nx.DiGraph()
@@ -80,7 +80,7 @@ for i in range(0, df.shape[0]):
             user_2_hashtags[tweeter_node] = [hashtag2,]
 
 triad_dict = nx.triadic_census(G_mentions)
-num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"]
+num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"] + triad_dict["030C"] + triad_dict["201"] + triad_dict["120D"] + triad_dict["120U"] + triad_dict["120C"] + triad_dict["210"] + triad_dict["300"]
 print("Triads Mentions:", num_triads)
 
 hashtag_2_frequency = {}
@@ -112,5 +112,5 @@ end = time.time()
 
 
 triad_dict = nx.triadic_census(G_coocurrence)
-num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"]
+num_triads = triad_dict["021C"] + triad_dict["111D"] + triad_dict["111U"] + triad_dict["030T"] + triad_dict["030C"] + triad_dict["201"] + triad_dict["120D"] + triad_dict["120U"] + triad_dict["120C"] + triad_dict["210"] + triad_dict["300"]
 print("Triads Hashtag co-occurence:", num_triads)
